@@ -1,7 +1,7 @@
 # VaxLedger – Blockchain-Based Vaccine Supply Chain Monitoring System
 
 <p align="center">
-<img src="" width="200" height="300"/>
+<img src="https://github.com/VaxLedger/.github/blob/main/profile/logoVaxLedger.jpg"/>
 </p>
 
 <p align = "center">
@@ -23,4 +23,5 @@ Smart contracts automate the validation of temperature thresholds and supply cha
 By combining **Ethereum’s decentralized trust model** with **IoT-based environmental sensing**, VaxLedger enhances supply chain visibility, reduces the risk of vaccine spoilage, prevents data manipulation, and increases overall trust in vaccine distribution processes.
 
 VaxLedger represents a scalable and interoperable solution for modern vaccine logistics, supporting compliance, auditability, and data-driven decision-making in global healthcare supply chains.
+
 
